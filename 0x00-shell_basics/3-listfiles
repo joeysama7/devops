@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l 3-lisfiles
+ls -la ./root
