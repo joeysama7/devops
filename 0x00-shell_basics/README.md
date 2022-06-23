@@ -1,2 +1,3 @@
 #!/bin/bash
-This is the ROOT DIRECTORY and I created a readme file
+This is the root read me created
+
